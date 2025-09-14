@@ -26,5 +26,9 @@ This is a simple landing page for the iPhone 13 Pro Max, built using HTML, CSS, 
 
 ## How to Use
 
-1.  Clone the repository or download the files.
-2.  Open `index.html` in your web browser to view the landing page.
+🔗 Project Links
+Live Demo: [https://medhat1919.github.io/Mobile/]
+
+Repository: [https://github.com/medhat1919/Mobile.git]
+
+
